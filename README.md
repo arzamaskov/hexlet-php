@@ -1,1 +1,1 @@
-# hexlet-php
+# Hexlet courses repository #
